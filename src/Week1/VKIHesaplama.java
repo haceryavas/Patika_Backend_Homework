@@ -3,7 +3,7 @@ package Week1;
 import java.util.Scanner;
 
 /**
- * @author Hacer Nur YAVAŞ - 26 Mayıs 2025
+ * @author Hacer Nur YAVAŞ - 16 Temmuz 2025
  * Bu proje Vücut Kitle İndeksi hesaplar.
  */
 public class VKIHesaplama {
