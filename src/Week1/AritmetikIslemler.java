@@ -3,8 +3,8 @@ package Week1;
 import java.util.Scanner;
 
 /**
- * @author Hacer Nur YAVAŞ - 16 Temmuz 2025
- * Bu proje Vücut Kitle İndeksi hesaplar.
+ * @author Hacer Nur YAVAŞ - 17 Temmuz 2025
+ * Bu proje girilen 3 a,b,c sayısı ile  a + b * c - b işlemini yapar.
  */
 
 public class AritmetikIslemler {
@@ -21,7 +21,7 @@ public class AritmetikIslemler {
         System.out.print("Üçüncü sayıyı giriniz: ");
         c = scan.nextInt();
 
-        sonuc = a + b * c - 2;
+        sonuc = a + b * c - b;
         System.out.println("Sonuç: " + sonuc);
     }
 }
