@@ -3,7 +3,7 @@ package Week1;
 import java.util.Scanner;
 
 /**
- * @author Hacer Nur YAVAŞ - 17 Temmuz 2025
+ * @author Hacer Nur YAVAŞ - 18 Temmuz 2025
  * Bu proje girilen N tane sayıdan en büyük ve en küçük sayıları bulur.
  */
 public class MaxMinBulma {
