@@ -22,7 +22,6 @@ class Main {
                 counter = letterCounter;
                 result = words[i];
             }
-
         }
 
         if(counter == 1)
