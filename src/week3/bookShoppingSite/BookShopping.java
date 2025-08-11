@@ -54,9 +54,11 @@ public class BookShopping {
                     System.out.print("Müşteri email adresini giriniz: ");
                     String givenEmail = scanner.nextLine();
                     User foundUser = userService.findUserByEmail(givenEmail);
+
                     System.out.print("Ürün ismini giriniz: ");
                     String productName = scanner.nextLine();
                     Product foundProduct = productService.findProductByName(productName);
+
                     orderService.create(1324, foundUser, List.of(foundProduct));
                     break;
 
