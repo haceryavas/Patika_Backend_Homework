@@ -1,4 +1,4 @@
-package week5.enumExampple;
+package week5.enumExample;
 
 import java.time.LocalTime;
 
